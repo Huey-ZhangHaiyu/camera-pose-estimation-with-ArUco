@@ -1,8 +1,6 @@
 % 452 project1
 % Author:
 % Haiyu Zhang
-% Kai Yan
-% Shikan Lian
 % last date:11/06/2019
 %%this grogram calculates the camera's position in spatial frame
 %% maker's position, we get these relation in marker_localization.m program
