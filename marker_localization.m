@@ -1,8 +1,5 @@
 % 452 project1
-% Author:
-% Haiyu Zhang
-% Kai Yan
-% Shikan Lian
+% Author: Haiyu Zhang
 % last date:11/06/2019
 %%this program gives the makers position in the s frame
 %% Gca1,assume id=1 maker is 'a' frame
