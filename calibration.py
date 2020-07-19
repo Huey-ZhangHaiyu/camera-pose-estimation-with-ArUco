@@ -2,8 +2,6 @@
 452 project1
 Author:
 Haiyu Zhang
-Kai Yan
-Shikan Lian
 last date:11/06/2019
 """
 """
